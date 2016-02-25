@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaedidit05brahuoft_0038.png"; bbox 0 0 2638 3952; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 238 283 2226 342">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 238 283 2226 342">
+     <span class='ocr_line' id='line_1_1' title="bbox 238 283 2226 342; baseline 0.002 -5"><span class='ocrx_word' id='word_1_1' title='bbox 238 285 307 337; x_wconf 85' lang='lat'><strong>24</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 452 283 1063 338; x_wconf 85' lang='lat' dir='ltr'>ASTRONOMIAE</span> <span class='ocrx_word' id='word_1_3' title='bbox 1090 283 1652 338; x_wconf 89' lang='lat' dir='ltr'><strong>INSTAURATAE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1679 286 2226 342; x_wconf 90' lang='lat' dir='ltr'>MECHANICA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 411 577 2263 741">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 411 577 2263 741">
+     <span class='ocr_line' id='line_1_2' title="bbox 411 577 2263 686; baseline 0.002 -36"><span class='ocrx_word' id='word_1_5' title='bbox 411 577 904 651; x_wconf 91' lang='lat' dir='ltr'>SEXTANS</span> <span class='ocrx_word' id='word_1_6' title='bbox 942 577 1859 667; x_wconf 89' lang='lat' dir='ltr'><strong>ASTRONOMICVS‚</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1901 580 2263 686; x_wconf 86' lang='lat' dir='ltr'>PROVT</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 829 686 1846 741; baseline 0.003 -3"><span class='ocrx_word' id='word_1_8' title='bbox 829 686 1442 741; x_wconf 84' lang='lat' dir='ltr'>ALTITVDINIBVS</span> <span class='ocrx_word' id='word_1_9' title='bbox 1469 687 1846 741; x_wconf 87' lang='lat' dir='ltr'><strong>INSERVIT.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 618 2792 1925 3013">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 618 2792 1925 3013">
+     <span class='ocr_line' id='line_1_4' title="bbox 1271 2792 1341 2851; baseline 0.029 -2"><span class='ocrx_word' id='word_1_10' title='bbox 1271 2792 1341 2851; x_wconf 48' lang='lat' dir='ltr'><strong>insumi</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 618 2858 1925 3013; baseline 0.003 -6"><span class='ocrx_word' id='word_1_11' title='bbox 618 2858 1925 3013; x_wconf 36' lang='lat' dir='ltr'><strong>1fimum1!mlum!minimum!umnum{nulum1lllllttflltlnsshlllffilmun111mussimummnu11tssmulummunuum-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 230 417 2533 3410">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 230 417 2533 3410">
+     <span class='ocr_line' id='line_1_6' title="bbox 230 417 2533 3410; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 230 417 2533 3410; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1969 3417 2433 3471">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1969 3417 2433 3471">
+     <span class='ocr_line' id='line_1_7' title="bbox 1969 3417 2433 3471; baseline -0.004 0"><span class='ocrx_word' id='word_1_13' title='bbox 1969 3417 2433 3471; x_wconf 87' lang='lat' dir='ltr'><strong>EXPLICATIO</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

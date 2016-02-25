@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaedidit05brahuoft_0177.png"; bbox 0 0 2638 3952; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 128 1398 2327 1753">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 128 1398 2327 1753">
+     <span class='ocr_line' id='line_1_1' title="bbox 128 1398 2327 1493; baseline 0.001 -3"><span class='ocrx_word' id='word_1_1' title='bbox 128 1400 283 1490; x_wconf 93' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 311 1398 693 1492; x_wconf 90' lang='lat' dir='ltr'>SOLIS</span> <span class='ocrx_word' id='word_1_3' title='bbox 721 1399 892 1490; x_wconf 94' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 914 1400 1354 1492; x_wconf 94' lang='lat' dir='ltr'>LUNAE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1382 1400 1880 1493; x_wconf 92' lang='lat' dir='ltr'>MOTUS</span> <span class='ocrx_word' id='word_1_6' title='bbox 1908 1401 2327 1493; x_wconf 91' lang='lat' dir='ltr'>RESTI-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 191 1529 2256 1642; baseline 0.001 -22"><span class='ocrx_word' id='word_1_7' title='bbox 191 1529 652 1622; x_wconf 87' lang='lat' dir='ltr'><strong>TUTOS</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 686 1530 882 1622; x_wconf 89' lang='lat' dir='ltr'><strong>AC</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 926 1530 1499 1642; x_wconf 88' lang='lat' dir='ltr'>SEQUEN</span> <span class='ocrx_word' id='word_1_10' title='bbox 1508 1530 1575 1622; x_wconf 92' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_11' title='bbox 1621 1532 2256 1624; x_wconf 90' lang='lat' dir='ltr'><strong>DIARIUM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 683 1660 1774 1753; baseline 0 -1"><span class='ocrx_word' id='word_1_12' title='bbox 683 1660 1669 1753; x_wconf 90' lang='lat' dir='ltr'><strong>PROLEGOMEN</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1676 1663 1774 1752; x_wconf 87' lang='lat' dir='ltr'>A</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1139 1799 1313 1864">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1139 1799 1313 1864">
+     <span class='ocr_line' id='line_1_4' title="bbox 1139 1799 1313 1864; baseline 0.011 -13"><span class='ocrx_word' id='word_1_14' title='bbox 1139 1799 1313 1864; x_wconf 88' lang='lat'>(1598)</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

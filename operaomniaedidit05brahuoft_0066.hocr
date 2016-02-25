@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaedidit05brahuoft_0066.png"; bbox 0 0 2638 3952; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 240 298 2231 365">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 240 298 2231 365">
+     <span class='ocr_line' id='line_1_1' title="bbox 240 298 2231 365; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 240 311 308 363; x_wconf 89' lang='lat'><strong>52</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 453 309 1063 362; x_wconf 84' lang='lat' dir='ltr'><strong>ASTRONOMIAE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1090 307 1656 361; x_wconf 88' lang='lat' dir='ltr'>INSTAURATAE</span> <span class='ocrx_word' id='word_1_4' title='bbox 1683 298 2231 365; x_wconf 89' lang='lat' dir='ltr'>MECHANICA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 681 602 2111 677">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 681 602 2111 677">
+     <span class='ocr_line' id='line_1_2' title="bbox 681 602 2111 677; baseline 0.002 -3"><span class='ocrx_word' id='word_1_5' title='bbox 681 602 1224 675; x_wconf 90' lang='lat' dir='ltr'><strong>ARMILLAE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1263 602 1999 677; x_wconf 89' lang='lat' dir='ltr'><strong>ZODIACALES.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2108 674 2111 677; x_wconf 75' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 234 442 2539 3437">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 234 442 2539 3437">
+     <span class='ocr_line' id='line_1_3' title="bbox 234 442 2539 3437; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 234 442 2539 3437; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1976 3446 2444 3500">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1976 3446 2444 3500">
+     <span class='ocr_line' id='line_1_4' title="bbox 1976 3446 2444 3500; baseline 0.002 -2"><span class='ocrx_word' id='word_1_9' title='bbox 1976 3446 2444 3500; x_wconf 90' lang='lat' dir='ltr'><strong>EXPLICATIO</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

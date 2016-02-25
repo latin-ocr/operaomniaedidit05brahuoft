@@ -1,0 +1,125 @@
+238r Medij motus ad Tempus datum.
+
+⁵ AB Anomalia Ecc.
+RTS Anom. Com.
+
+10
+
+15
+
+2⁵
+
+DE MARTE 283
+
+Simplex Θ 5⁰38}
+GA [Longit.] Apogaei <3¹ 115 30
+GB Longit. d* , 151 10
+
+Proportiones quantitatum in
+
+Hypothefi.
+
+Latus AD 10000
+DE 1460
+BF 500
+ES 6519
+
+Triang. BED.
+
+Angulus BDE 144⁰ 20⁴
+
+BED 31 19
+
+Summa {gg 39
+
+DBE 4 21
+BE 11218
+Triang. BEF.
+
+Angulus DBF 35 40
+EBD 4 21
+
+EBF ⁴40 1
+
+ 
+
+ 
+
+ 
+
+BFE 138 17
+
+Summa 178 18
+180
+
+BEF&BEX 1 42
+ΕΒΧ 4 21
+
+ 
+
+ 
+
+ 
+
+35 40
+214 28}
+
+Simplex long. d* 151⁰ 10⁴ 0¹⁴
+
+Sub. 6 3 Ο
+
+ 
+
+Coaequata long. 145 7 0
+RTS Anom. Com. 214 28}
+
+Add.VER 6 3
+
+ 
+
+VRTS coaeq. Com. 220 31³}
+VRZ 180
+
+Ang. sEz 40 311
+
+ 
+
+Triang. FES. “
+
+Latus FE 10839
+SE 6519
+
+FSE 103043¹25⁴‘
+
+FES 40 31 30
+
+Summa {gg 14 55
+
+Angulus SFE 35 45 5
+
+Parallaxis orb. ἅ sub.
+
+Coaequat. long. 145⁰ 7⁴
+Sub. 35 45
+
+d* a I V 109 22
+Vera Praecess. 28 4
+
+Longit. d* 137 26
+in 17 26 Ω
+obseruatio dedit 17 371}st ΙΙ
+
+ 
+
+ 
+
+ 
+
+ 
+
+DXE 6 3 Prosthaph.
+
+Tab. Pruten. 6 2
+
+EXPLICATIO
+

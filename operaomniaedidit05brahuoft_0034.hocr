@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaedidit05brahuoft_0034.png"; bbox 0 0 2638 3952; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 233 284 2222 340">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 233 284 2222 340">
+     <span class='ocr_line' id='line_1_1' title="bbox 233 284 2222 340; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 233 289 302 340; x_wconf 88' lang='lat'><strong>20</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 446 284 1054 340; x_wconf 87' lang='lat' dir='ltr'><strong>ASTRONOMIAE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1081 284 1647 338; x_wconf 87' lang='lat' dir='ltr'><strong>INSTAURATAE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1672 286 2222 340; x_wconf 82' lang='lat' dir='ltr'>MECHANICA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 425 578 2243 740">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 425 578 2243 740">
+     <span class='ocr_line' id='line_1_2' title="bbox 425 578 2243 683; baseline 0.001 -31"><span class='ocrx_word' id='word_1_5' title='bbox 425 578 1027 670; x_wconf 89' lang='lat' dir='ltr'><strong>QVADRANS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1053 578 1373 651; x_wconf 92' lang='lat' dir='ltr'><strong>ALIVS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1404 578 2243 683; x_wconf 90' lang='lat' dir='ltr'>ORICHALCICVS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 911 686 1767 740; baseline 0.001 -1"><span class='ocrx_word' id='word_1_8' title='bbox 911 686 1169 740; x_wconf 86' lang='lat' dir='ltr'><strong>ETIAM</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1195 687 1767 740; x_wconf 87' lang='lat' dir='ltr'><strong>AZIMVTHALIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 225 418 2531 3406">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 225 418 2531 3406">
+     <span class='ocr_line' id='line_1_4' title="bbox 225 418 2531 3406; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 225 418 2531 3406; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1970 3414 2436 3469">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1970 3414 2436 3469">
+     <span class='ocr_line' id='line_1_5' title="bbox 1970 3414 2436 3469; baseline 0.002 -1"><span class='ocrx_word' id='word_1_11' title='bbox 1970 3414 2436 3469; x_wconf 87' lang='lat' dir='ltr'><strong>EXPLICATIO</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
